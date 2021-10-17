@@ -1,0 +1,46 @@
+.rss-box {
+    margin-left: 45px;
+    border: 2px  #2F4858;
+    border-left-style: solid;
+
+    
+}
+
+.rss-item  {
+    color: #aaa;
+   font-family: verdana, arial, sans-serif;
+   font-size: 13px;
+   font-weight : bold; 
+   margin: 8px 0;
+   width: 95%;
+ }
+ 
+ .rss-item a:link, .rss-item a:visited, .rss-item a:active {
+    text-decoration : none;
+    border-bottom: 1px solid #ededed;
+    color: #2F4858;
+    }
+ 
+ .rss-item a:hover { 
+    text-decoration : none;
+    color: #e0861e;
+    border-bottom: 1px dotted #e0861e;
+    }
+    
+ .rss-date {
+    font-size: 11px;
+    font-weight : normal;
+    color: #F60;
+    }
+
+.header{
+    margin:20px 20px 30px;
+}
+.bio{
+    margin: 0 20px 20px;
+}
+
+td a{
+    color: #fff;
+    text-decoration: none;
+}
